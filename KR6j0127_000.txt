@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五佛頂三昧陀羅尼經
+#+DATE: 2015-08-30 20:26:26.046851
+#+PROPERTY: JUAN 0
